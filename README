@@ -1,4 +1,5 @@
 Data and Code provided here were used for Ray & Gordus: Nonlinear integration of sensory and motor inputs by a single neuron in C. elegans
+doi: https://doi.org/10.1101/2025.04.05.647390
 
 ( Detailed code for how to read and analyze data will be provided )
 * Files include the following numpy datasets:
