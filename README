@@ -47,3 +47,10 @@ doi: https://doi.org/10.1101/2025.04.05.647390
 * In datasets with ‘AVA-AIB-AIA’ in the filename, order of neurons is always AVA first, AIB second, and AIA last. 
 
 # Detailed code for how to pull out data for each type of trace, worm, neuron, and experiment will be provided. 
+
+# Recommended workflow, because you will need resulting parameters from each step for the next model:
+1. Modeling Neuron Data - Single Neuron Convolution.ipynb
+2. Modeling Neuron Data - Summation.ipynb
+3. Modeling Neuron Data - Sliding (Time-dependent sensory).ipynb
+4. Modeling Neuron Data - Derivative (Motor-dependent).ipynb
+
