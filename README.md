@@ -7,7 +7,7 @@ DOI: https://doi.org/10.1101/2025.04.05.647390
 Code is written using Jupyter Notebook, python version 3.9.7
 
 
-# This repository includes numpy files and notebooks to analyze AIB activity in response to some specified input using convolution modeling. There are two folders provided, each with their own README for proper usage:
+This repository includes numpy files and notebooks to analyze AIB activity in response to some specified input using convolution modeling. There are two folders provided, each with their own README for proper usage:
 
 # 1. Modeling with Ray_Gordus Datasets
 This folder contains:
